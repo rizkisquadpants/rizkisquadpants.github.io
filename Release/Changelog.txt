@@ -1,0 +1,9 @@
+==========================================================
+What's new in version : 1.1
+
+[+] Bug fix
+[+] Added Wall through Wall Feature
+[+] Added Invincible Features
+[+] And More..
+
+==========================================================
