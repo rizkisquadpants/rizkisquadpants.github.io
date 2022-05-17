@@ -1,9 +1,13 @@
 ==========================================================
-What's new in version : 1.1
+What's new in version : 1.0.0.2
 
 [+] Bug fix
-[+] Added Wall through Wall Feature
-[+] Added Invincible Features
+[+] Reduce RAM Performance
+[+] Add Bypass Memory
+[+] Fix Force Close Game
+[+] Add Unlimited Ammo
+[+] Add Rapid Fire ( New Fix )
+[+] Add Auto MAX P.R.L 412 ( New )
 [+] And More..
 
 ==========================================================
